@@ -1,0 +1,79 @@
+.container {
+    background-color: #E5E5E5;
+    height: 270px;
+    width: 1251px;
+    left: 0px;
+    margin-top: 0px;
+}
+
+.container-main {
+    width: 1120px;
+    height: 270px;
+    margin-top: 70px;
+    background-color: #E6F7FF;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    height: 270px;
+}
+
+.titulo {
+    width: 502px;
+    height: 46px;
+    margin-top: 46px;
+    margin-left: 31px;
+    color: #262626;
+}
+
+.input-search {
+    width: 254px;
+    height: 24px;
+    margin-top: 24px;
+    margin-left: 31px;
+}
+
+.btn {
+    position: absolute;
+    width: 101px;
+    height: 40px;
+    margin-left: 31px;
+    margin-top: 176px;
+    background-color: #1890FF;
+    border-radius: 4px;
+    color: #FFFFFF;
+
+}
+
+.formulario {
+    display: flex;
+    margin-top: 45px;
+}
+
+.avatar img {
+    height: 247px;
+    width: 247px;
+    left: 38px;
+    top: 43px;
+    border-radius: 0px;
+
+}
+
+.resultCard {
+    width: 902px;
+    height: 247px;
+    left: 0px;
+    top: 0px;
+    border-radius: 6px;
+    background-color: #D9D9D9;
+
+}
+
+.resultCard h2 {
+    font-size: 20px;
+    color: #1890FF;
+    margin-top: 8px;
+    margin-left: 14px;
+    margin-bottom: 19px;
+}

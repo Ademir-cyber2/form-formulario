@@ -1,9 +1,10 @@
 import './assets/styles/custom.scss';
 import './App.css';
+import Busca from 'pages/Busca';
 
 function App() {
   return (
-    <h1>Hello</h1>
+    <Busca />
   );
 }
 

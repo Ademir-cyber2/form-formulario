@@ -1,0 +1,35 @@
+.container-home {
+    width: 100%;
+    height: auto;
+    background: #E5E5E5;
+}
+
+.container-home h1 {
+    color: #000000;
+    height: 64px;
+    width: 423px;
+    margin-top: 49px;
+    margin-left: 41px;
+    font-size: 48px;
+    border-radius: nullpx;
+}
+
+.container-home h3 {
+    color: #7E7E7E;
+    margin-left: 41px;
+    margin-top: 53px;
+    font-size: 24px;
+}
+
+.btn {
+    position: absolute;
+    margin: 8px 8px 8px 59px;
+    background-color: blue;
+}
+
+.btn h6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+}
