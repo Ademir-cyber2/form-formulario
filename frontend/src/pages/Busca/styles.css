@@ -1,15 +1,15 @@
 .container {
     background-color: #E5E5E5;
-    height: 270px;
-    width: 1251px;
     left: 0px;
     margin-top: 0px;
 }
 
 .container-main {
-    width: 1120px;
     height: 270px;
-    margin-top: 70px;
+    width: 1120px;
+    margin-left: 0px;
+    margin-top: 54px;
+    border-radius: 16px;
     background-color: #E6F7FF;
 }
 
@@ -49,24 +49,27 @@
 .formulario {
     display: flex;
     margin-top: 45px;
+    width: 1120px;
+    height: 334px;
+    background: #F5F5F5;
 }
 
 .avatar img {
     height: 247px;
     width: 247px;
-    left: 38px;
-    top: 43px;
+    margin-left: 38px;
+    margin-top: 43px;
     border-radius: 0px;
 
 }
 
 .resultCard {
-    width: 902px;
+    width: 780px;
     height: 247px;
-    left: 0px;
-    top: 0px;
+    margin-left: 29px;
+    margin-top: 43px;
     border-radius: 6px;
-    background-color: #D9D9D9;
+    background-color: #FFFFFF;
 
 }
 

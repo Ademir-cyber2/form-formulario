@@ -1,10 +1,10 @@
 import './assets/styles/custom.scss';
 import './App.css';
-import Busca from 'pages/Busca';
+import Rotas from 'Rotas';
 
 function App() {
   return (
-    <Busca />
+    <Rotas />
   );
 }
 
